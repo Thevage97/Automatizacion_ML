@@ -54,7 +54,6 @@ cd automatizacion-e2e-ml
 2. **Asegúrate de tener:**
 - Java 17+
 - Maven
-- Google Chrome (compatible con la versión configurada del chromedriver)
 3. **Descargar y descomprimir Chrome for testing en la raiz del proyecto**
 ```
 https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.55/win64/chrome-win64.zip
